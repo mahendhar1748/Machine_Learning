@@ -1,1 +1,1 @@
-# Data_Science_Assignments
+# Machine_Learning_Assignments
